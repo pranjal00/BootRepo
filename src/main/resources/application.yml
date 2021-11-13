@@ -1,7 +1,3 @@
-server:
-  port: 8088
-  contextPath: boot
-
 car:
   carName: Toyota Supra
   carNo: 9091
