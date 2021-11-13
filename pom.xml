@@ -12,7 +12,7 @@
 
     <groupId>com.actuator</groupId>
     <artifactId>BootActuatorTest</artifactId>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <version>0.1</version>
 
     <name>BootActuatorTest Maven Webapp</name>
